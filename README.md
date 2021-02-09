@@ -1,6 +1,6 @@
 # Data-Science-Studies
 
-Data Science with Python 20 March, 2019
+Data Science with Python 
 
 You can check my  Data Science practices on Kaggle platform.
 
